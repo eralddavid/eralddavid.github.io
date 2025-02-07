@@ -1,1 +1,0 @@
-# eralddavid.github.io
