@@ -1,3 +1,8 @@
+---
+title: About Me
+layout: page
+---
+
 # About Me
 
 Hi there! My name is Erald David Sibatuara. You can call me Erald.
