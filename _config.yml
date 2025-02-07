@@ -3,8 +3,9 @@ title: Homepage
 description: Erald David Link Blog
 
 # Theme settings
-theme: jekyll-theme-minimal # or your current theme
-show_downloads: false
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme
 
 # Navigation
 header_pages:
