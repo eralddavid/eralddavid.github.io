@@ -1,6 +1,7 @@
 ---
+layout: default
 title: Projects
-layout: page
+permalink: /projects/
 ---
 
 # Projects that I've Been Working On
