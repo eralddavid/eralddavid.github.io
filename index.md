@@ -1,3 +1,7 @@
+---
+title: Homepage
+---
+
 # Erald David's Weblog
 
 This is the link blog that I used to cite any article and post commentary on specific issue. Heavily inspired by [Simon Wilson's approach to link blog](https://simonwillison.net/2024/Dec/22/link-blog/). 
