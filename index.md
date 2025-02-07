@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Homepage
+permalink: /
 ---
 
 # Erald David's Weblog
