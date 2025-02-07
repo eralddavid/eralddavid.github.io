@@ -4,15 +4,6 @@ description: Erald David link Blog
 theme: jekyll-theme-minimal
 show_downloads: false
 
-# Navigation structure
-nav:
-  - title: About Me
-    url: /about
-  - title: Essays
-    url: /essays
-  - title: Projects
-    url: /projects
-
 # Build settings
 markdown: kramdown
 plugins:
