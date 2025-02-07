@@ -1,3 +1,5 @@
+# Same Text, Different Reaction
+
 *Created: 2025-02-08*
 *Last updated: 2025-02-08*
 
