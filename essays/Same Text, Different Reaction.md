@@ -18,7 +18,8 @@ His reaction made me pause. I downloaded the article, printed it out, and decide
 
 We've met later that same month and share of our perspective. It was a lively debate, which too long to put in this short post. But we still had different reaction (and he's quite strong) even when we've spent >3 hours discussing about it.
 
-**
+***
+
 Initially, I intended this commentary to be yet another perspective on AI, joining countless others shared across the internet. However, what fascinated me most wasn't the content itself, but how differently two people could interpret it. I had approached "The Death of the Junior Developer" with academic interest, curious about how the author would support his claims. But my friend's impression was like "Ohhh my God, all hell breaks loose" moment, require immediate action.
 
 This experience reinforces a profound truth about the written word's impact on how we perceive and navigate our lives. Cognitive science tells us that the human brain functions as a prediction machine, constantly using available information for [sensemaking](https://commoncog.com/good-synthesis-adapting-to-uncertainty/). Yet, what struck me was how two people with remarkably similar backgrounds—both working in tech, graduates of the same university, with comparable years of experience—could derive such dramatically different meanings from the same text.
