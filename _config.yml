@@ -1,2 +1,36 @@
+# Site settings
 title: Homepage
+description: Erald David Link Blog
+
+# Theme settings
 theme: jekyll-theme-minimal # or your current theme
+show_downloads: false
+
+# Navigation
+header_pages:
+- about_me.md
+- essays.md
+- projects.md
+
+navigation:
+- title: About Me
+url: /about_me
+- title: Essays
+url: /essays
+- title: Projects
+url: /projects
+
+# Build Settings
+markdown: kramdown
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+
+# Exclude from processing
+exclude:
+- Gemfile
+- Gemfile.lock
+- node_modules
+- vendor
+- .git
+- .github
