@@ -1,6 +1,7 @@
 # Same Text, Different Reaction
 
 *Created: 2025-02-08*
+
 *Last updated: 2025-02-08*
 
 > **Warning**: This blog post is somewhat speculative; the sky might not be falling. But my spidey-sense is definitely tingling. The way we are all doing our jobs in software is changing, potentially in big ways. So let's think of this as a thought exercise.
