@@ -10,7 +10,7 @@
 
 Last December, I shared Steve Yegge's article, ["The Death of the Junior Developer,"](https://sourcegraph.com/blog/the-death-of-the-junior-developer) with a close friend. I've long been an admirer of Yegge's work. I first encountered his famous ["Google's Platform Rant"](https://gist.github.com/chitchcock/1281611) during my college years, marveling at both his audacity to speak so boldly and his evident expertise in the field.
 
-IWhen sharing the article, I thought, "Here's an interesting perspective on AI from one of my favorite software experts—my friend would appreciate this.". I expected perhaps a casual thumbs-up emoji in response. Instead, a few days later, I received an unexpectedly urgent message:
+When sharing the article, I thought, "Here's an interesting perspective on AI from one of my favorite software experts—my friend would appreciate this.". I expected perhaps a casual thumbs-up emoji in response. Instead, a few days later, I received an unexpectedly urgent message:
 
 "Oh my God, Rald! After reading (and 4x re-reading) that article, I immediately reached out to our university's Head of Study Program. We're scheduling an emergency meeting this Saturday to discuss its implications. I'll catch with you later to ask your opinion, but thanks for sharing this"
 
