@@ -5,11 +5,11 @@ _Created at: 2024-02-09_
 
 _Last updated at: 2024-02-09_
 
-I was a big fan of the study of accelerating expertise. I believe the best thing that I can do in my youth is to identify all the skill tree to become experts and overtime learning about them (my domain right now is data). That's why I found this tip from CedriC Chin is quite compelling.
+I was a big fan of the study of accelerating expertise. I believe the best thing that I can do in my youth is to identify all the skill tree to become experts and overtime learning about them (my domain right now is data). That's why I found this tip from Cedric Chin is quite compelling.
 
 ![Screenshot from Commoncog's forum](/images/essays_0002/screenshot_cedric_001.png)
 
-Full quote below
+Full quote below, from ["What to look for to identify and describe the metagame faster"](https://forum.commoncog.com/t/what-to-look-for-to-identify-and-describe-the-metagame-faster/359/2) forum post
 > I was thinking about how to answer this, but then I realised that there’s an easier (though time consuming!) way of figuring out where the metagame is: listen to practitioners talking to other practitioners!
 > ....
 >
