@@ -4,9 +4,11 @@
 
 _Created at: 2024-02-09_
 
-_Last updated at: 2024-02-09_
+_Last updated at: 2024-02-12_
 
-I am a big fan of studying how to accelerate expertise. I believe the best thing I can do in my youth is to identify all the skills needed to become an expert and learn about them over time (my current domain is data). That's why I found this tip from Cedric Chin quite compelling.
+I have been working for >4 years now, and there's this ugly fact that I still can't put aside on: is hard to identify a path to expertise. Most knowledge worker that I know don't try to achieve expert level in their field. For those who want, sometime they just winging it and [rarely involves deliberate practice](https://notes.andymatuschak.org/About_these_notes?stackedNotes=zUw5PuD8op9oq8kHvni6sug6eRTNtR9Wqma&stackedNotes=zMbCwoVdjsqPNyTRRr3phPN). That's why I kept collecting a faster way to identify a "path" to expertise. And while many focus on learning through documentation, courses, or trial and error, there's another powerful approach that's often overlooked: **studying how experts talk among themselves**.
+
+This insight came from Cedric Chin, who observed that practitioners talking shop naturally surface the most critical aspects of their domain. As he explains:
 
 ![Screenshot from Commoncog's forum](/images/essays_0002/screenshot_cedric_001.png)
 
@@ -20,8 +22,7 @@ Full quote below, from ["What to look for to identify and describe the metagame 
 > -  Eventually the whole “active vs passive investing” debate would be brought up, but the arguments seem to change over time — arguments from podcast episodes four years ago seem remarkably different from arguments last year, which indicates how the meta (or at least the consensus take) has been evolving.
 > -  Eventually someone says “So what do you think about value investing, and its horrible track record over the last 10 years?” and that clues you in to the existence of an ongoing debate.
 
-Today I somehow stumbled upon this great podcast by The Data Stack Show titled The Present and Future of Data Engineering with Joe Reis and Matthew Housley from Ternary Data. All four of these podcasters are heavy hitters in the data engineering world. I bet their combined years of experience total more than 30 (more than my age!).
-So what did I find? As far as I noticed, there were two big topics.
+This framework proved remarkably valuable when I recently encountered a podcast episode of [The Data Stack Show featuring Joe Reis and Matthew Housley](https://datastackshow.com/podcast/29-the-present-and-future-of-data-engineering-with-joe-reis-and-matthew-housley-from-ternary-data/). Their conversation, representing over three decades of combined experience, revealed two fundamental shifts in data engineering that perfectly exemplify why listening to expert discourse is so valuable.
 
 ## Long live modern data warehouses.
 From the beginning, the podcast touched on a quite heavy subject: cloud-based data engineering. Matthew Housley (Matt) starts by retelling his experience.
@@ -36,7 +37,7 @@ Then, they touched a bit about the challenge of all these companies that still u
 > 
 > (Matt) I think also, we’ve seen that Hadoop has become a disappointment for many organizations on prem. Because again, you run into those same fundamental issues. Plus, you need really heavy duty expensive engineering resources to run that cluster. So Hadoop turned out to be fantastic if you were the scale of like a Yahoo or a Facebook, and you could just build a massive cluster. And you could have these highly, highly proficient engineers, and you could scale to, you know, 5,000 nodes, and serve the data needs of the whole company.
 >
-> (Matt) But if you’re a lot smaller, and you’re not specialized in tech, then that is going to become a real problem for you at some point. And I think that is the big driving force behind cloud migrations, moving away from some of those limits, and having limitless scaling as a possibility in the future.
+> (Matt) But if **you’re a lot smaller**, and you’re not specialized in tech, then that is **going to become a real problem** for you at some point. And I think that is the big driving force behind cloud migrations, moving away from some of those limits, and having limitless scaling as a possibility in the future. _(emphasis added)_
 
 He also adds how hard it is to fix data quality issue with these old tools and how new tool run circle around them
 > (Matt) ...that hinder data science come down to really basic foundational problems like data quality, really complex ETL, it takes a long, long time to deploy fixes to data quality issues. And the interesting thing is your data scientists are smart, they’ll often find these data quality issues very quickly as they’re working on a new project.
@@ -66,7 +67,14 @@ This second topic caught my interest because it's a valid demand (I can't count 
 >
 > I mean, we only do batch right now, because it’s an artificial distinction that we have to do because of technical limitations, right So you time bound your data, but in essence, all data is actually unbounded. And so the closer you can get to sort of this organic feel with data and events just sort of happening as they happen, like, you know, the rest of the world operates, you know, like the actual, you know, world and universe is real time. It’s all event driven. Humans are the only ones that seem to batch things up.
 
-A hallmark of a good source for identifying the skill tree in a domain is when experts casually drop papers/articles that interest them. I now know that, if I have free time, I might devote my brain power to understanding this [Dataflow Model by Google](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43864.pdf). 
-So reading this podcast was really useful for me.
+I have a hard time figuring out the good analogy to think about this information. That's where Claude provide this witty response.
+
+"Here's the thing about time in data: we batch things up because that's how our tools work, not because that's how the world works. It's like taking a video and turning it into a slideshow because that's all our projector can handle. But now, (theoretically speaking) we're finally getting projectors that can show the whole movie, and **suddenly everyone's realizing that maybe we didn't need slideshows** after all."
+
+I agree. Maybe we didn't need slideshows after all.
+
+To close this notes: A hallmark of a good source for identifying the skill tree in a domain is when experts casually drop papers/articles that interest them. I now know that, if I have free time, I might devote my brain power to understanding this [Dataflow Model by Google](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43864.pdf). 
+
+So, weekend well spent!
 
 
