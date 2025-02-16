@@ -6,6 +6,8 @@
 
 There's this fascinating video from PBS that I watched a while back. It's title is ["Why Do Things Keep Evolving Into Crabs?"](https://www.youtube.com/watch?v=wvfR3XLXPvw). The main message of the video is pretty interesting, if not amusing: the crab-shaped body, it turns out, is the most flexible body shape for animals that increases their survival chance. So much so that many animals have adapted to it, creating so-called "fake crabs" (animals with crab-like bodies). According to the video, crab shapes have "allowed crustaceans to go more places, do more things, and evade more predators." Evolution automatically prefers it over other body shapes, with its very natural creative destruction mechanism (meaning those animals who don't have a crab shape have a higher chance of being wiped out).
 
+![Crab shape, from the video's thumbnail](/images/essays_0003_all_things_around_is_form/crab-like_shape.png)
+
 Okay, that's a whole passage about crabs in an essay that's intended to talk about data structure and has "Form" in its title. So, what's up with that?
 
 ### Every Sheet Around Me is Has a Form Like Structure
