@@ -8,7 +8,7 @@ Write everyday, until 28th Feb
 - [ ] 12th Feb
 - [ ] 13th Feb
 - [ ] 14th Feb
-- [ ] 15th Feb
+- [X] 15th Feb
 - [ ] 16th Feb
 - [ ] 17th Feb
 - [ ] 18th Feb
