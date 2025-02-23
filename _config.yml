@@ -1,7 +1,7 @@
 # Site settings
 title: Homepage
 description: Erald David link Blog
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/slate@v0.2.0
 show_downloads: false
 
 # Build settings
@@ -9,6 +9,7 @@ markdown: kramdown
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 # Exclude from processing
 exclude:
