@@ -1,7 +1,7 @@
 # Site settings
 title: Homepage
 description: Erald David link Blog
-remote_theme: pages-themes/slate@v0.2.0
+remote_theme: pages-themes/minimal@v0.2.0
 show_downloads: false
 
 # Build settings
